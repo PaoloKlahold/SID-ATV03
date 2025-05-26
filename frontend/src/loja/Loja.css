@@ -1,0 +1,16 @@
+.loja-title {
+    text-align: center;
+    margin-top: 32px;
+    font-size: 2rem;
+    color: #222;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.itens-flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+    margin: 32px 0;
+}
